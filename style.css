@@ -1,0 +1,29 @@
+body {
+text-align: center;
+background-color: lightblue;
+}
+
+h1 {
+font-family: sans-serif;
+color: darkturquoise;    
+}
+
+h2 {
+font-family: sans-serif;
+color: darkturquoise;    
+}
+
+div {
+margin-top: 15px;    
+}
+
+.image-section{
+display: flex;
+justify-content: center;    
+}
+
+.section-style {
+margin-right: 25px;
+margin-left: 25px;
+background-color: lightblue;
+}
